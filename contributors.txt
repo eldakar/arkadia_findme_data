@@ -2,3 +2,4 @@ default
 eldakar
 finorin
 opeteh
+astral
